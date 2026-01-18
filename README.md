@@ -86,7 +86,7 @@ One of my most complex and well-structured projects.
 ## 📫 Contact
 
 - 🌐 Portfolio: **https://ionutdrg45.bluffs.ro**
-- 💼 LinkedIn: **https://linkedin.com/ionutdrg45**
+- 💼 LinkedIn: **https://www.linkedin.com/in/ionutdrg45**
 
 ---
 
