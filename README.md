@@ -27,7 +27,7 @@ I am a **Software Engineer** with strong experience in **full-stack web developm
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,html,css" />
 </p>
 
 ### Automation & Other
