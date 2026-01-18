@@ -76,22 +76,10 @@ One of my most complex and well-structured projects.
 ---
 
 ### ➕ Other Projects
-- Another online shop with **PayPal payments**
+- Other online shops with **PayPal payments**
 - Presentation websites with admin interfaces
 - News & content management platforms
 - Scripts, bots & small games
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ionutdrg45&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ionutdrg45&theme=tokyonight" />
-</p>
 
 ---
 
